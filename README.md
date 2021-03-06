@@ -14,3 +14,7 @@ npm run serve
 ```
 
 Application accepts any of text, CSV, Doc Or PDF files. Other format files will be uploaded but won't be scanned
+
+
+## Sample files
+`Sample` folder contains couple of sample files that can be used for testing this application
